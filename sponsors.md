@@ -15,8 +15,6 @@ attacks, not just the malware.
 
 🌐 [crowdstrike.com](https://www.crowdstrike.com/en-gb/)
 
-🧑‍🎓 CrowdStrike still have a couple of internships open!
-Apply [here](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e2015adbe3e7f6b000de0b)!
 
 ---
 ## Silver Sponsor - Interrupt Labs 🕵️
