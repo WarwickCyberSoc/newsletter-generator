@@ -1,26 +1,14 @@
 # Department Reminders
-There are a few important departmental deadlines and meetings this week, keep an
-eye out!
 
 ---
-## Courseworks
-There's a coursework due for each year this week, best of luck with submissions
-everybody!
+## ALMOST FINISHED
+We're so nearly done folks! One exam tomorrow morning, and we're finally home
+free 😭.
 
-- **OSCC** due on Wednesday
-- **ISS** and **LLTCS** due on Friday
+Huge congratulations to the first years, well done for making it through the
+first year of your degree! Freshers no more folks, you've got the eye bags to
+prove it.
 
----
-## 2nd Year Dissertation Meeting
-🕓: **When**: 3-4pm
-
-📍: **Where**: IMC 2.46
-
-The department will be opening the dissertation portal on Wednesday, and Harj
-is hosting a session to show how it works.
-
----
-## 2nd Year IRSM Help session
-🕓: **When**: 1-2pm
-
-📍: **Where**: IMC 2.46
+Immense congratulations to the third years, well done! After three long years
+you've knocked out your dis projects, enjoy the caps and gowns you very much
+deserve a nice break :)

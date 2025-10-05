@@ -1,7 +1,8 @@
 # Warwick CyberSoc Newsletter | Term {{ term }} Week {{ week }}
 
 INTRO
---------------------------------------------------------------------------------
+
+{{ double-line }}
 
 {{ events }}
 
@@ -16,6 +17,8 @@ INTRO
 {{ double-line }}
 
 {{ sponsors }}
+
+{{ double-line }}
 
 > \<Equally as hilarious sign off>
 **Oscar Topliss** & **Warwick Cyber Security Society Exec Team**<br />
