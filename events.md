@@ -1,30 +1,14 @@
 # CyberSoc Events This Week
 
 ---
-## 🧑‍🏫 IntroToCTF - Intro to Linux and Virtual Machines
-📅 When: **Monday (6th October) 18:00-19:30**
-📍 Where: **[IMC 2.46](https://link.mazemap.com/DR95aKRf)**
+## 🍻 Circle: Shit Shirts
+📅 When: **Wednesday (15th October) 19:30-late**
 
-The first of our **IntroToCTF** series! This series will teach you the skills
-you need to compete in **Capture The Flag** competitions, and will focus on a 
-different topic each week.
+📍 Where: **[Copper Rooms](https://link.mazemap.com/DR95aKRf)** (on campus)
 
-This week we'll be going over how to set up a **Linux Virtual Machine** or **VM**, which
-is an **essential tool** to have for CTFs. We'll then cover the **basics of
-Linux**, including **navigation** and **installing software**.
+Our first circle of the year! For anybody who's joined Warwick recently, 
+circling is a big part of the Warwick social life and well worth trying out.
+Our social secretaries Jamie and Tom are the loveliest of folks, you're in good
+hands.
 
----
-## 👤Talk Series - Peter Jones - Anatomy of a Cyber ATT&CK
-📅 When: **Wednesday (8th October) 13:00-14:00**
-📍 Where: **[IMC 0.04](https://link.mazemap.com/DR95aKRf)**
-
-
-We're running a **weekly talk series** this year in collaboration with the 
-department! This week's speaker is **Peter Jones**.
-
-The talk will cover how and why hackers **organise large-scale attacks**, using
-the recent Marks & Spencer cyber attack as an example.
-
----
-
-
+Come along in the **worst shirt you own**! The worse the better!
