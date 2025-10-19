@@ -29,8 +29,24 @@ science**, **Cyber Security** and **AI**
     - **Explore Milan** with **free food, drinks, and travel**
 - The placement will run from the **26th** to the **29th of March 2026**
 - You have until the **27th of October** to apply.
-- [Apply here](https://uk.firstascent.io/)!
+- **[Apply here](https://uk.firstascent.io/)**!
 
+### Bending Spoons Internships
+- **Bending Spoons** have posted multiple internships!
+- They pay **incredibly well** for an internship, at **£66 779** pro-rata.
+- You'll probably be most interested in their **UK Software Development
+Internship** (if so, **[Apply here!](https://jobs.bendingspoons.com/positions/6890dba49d850bc8ab9a94f9)**)
+- They're also offering a **data analysis internship**. **[Apply here!](https://jobs.bendingspoons.com/positions/66bb94dc1e8f86fcdd695ee9?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+
+### Bending Spoons Graduate Schemes
+- **Bending Spoons** have also put out a number of **graduate roles**, in both
+**techincal** and **non-techincal** areas!
+- They pay **incredibly well** for graduate work, and you can work with dozens
+of different technologies, it's an incredible opportunity.
+- **[Software Engineering Grad Scheme](https://jobs.bendingspoons.com/positions/668e71387a24106d65888827?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+- **[Data Analysis Grad Scheme](https://jobs.bendingspoons.com/positions/6889d2629c65e916b84e716c?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+- **[Graduate Content Manager](https://jobs.bendingspoons.com/positions/68f122eb045ec2dddb1aee88)**
+- **[Graduate Communications Manager](https://jobs.bendingspoons.com/positions/68f1213a63c9548216e076ae?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
 ---
 ## Silver Sponsor - CrowdStrike
 <img src="https://warwickcybersoc.com/images/CS_Logo_Cropped.png" style="max-width: 90%;" alt="CrowdStrike Logo"/>
@@ -44,6 +60,15 @@ mission that matters? The future of cybersecurity starts with you.
 
 
 🌐 [crowdstrike.com](https://www.crowdstrike.com/en-gb/)
+
+### CrowdStrike Summer 2026 Internships
+- **CrowdStrike** have opened applications for **6 summer internships**!
+- A lot of CyberSoc members have completed these internships and they all had a 
+fantastic time. Feel free to ask about it on our **discord**!
+- If you hope to work in cyber **threat intelligence** then
+these internships are **the best way to establish your career**
+- They have **4 intelligence internships** and **2 sales internships** open
+- **[Apply here](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e2015adbe3e7f6b000de0b&locationCountry=29247e57dbaf46fb855b224e03170bc7)**!
 
 ---
 
@@ -79,4 +104,4 @@ professional researchers.
 - You should have **some experience** with **reverse engineering** before you apply. 
 I recommend spending a month or two trying some **reverse engineering CTF 
 challenges** before applying.
-- [Apply Here](https://jobs.gohire.io/interrupt-labs-zcocopee/vulnerability-research-summer-placement-248379/)!
+- **[Apply Here](https://jobs.gohire.io/interrupt-labs-zcocopee/vulnerability-research-summer-placement-248379/)**!
