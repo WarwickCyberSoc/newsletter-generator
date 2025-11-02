@@ -1,65 +1,65 @@
 # CyberSoc Events This Week
 
 ---
-## 🧑‍🏫 IntroToCTF: Intro to Forensics
-📅 When: **Monday (20th October) 18:00-19:30**
+## 🧑‍🏫 IntroToCTF: Intro to Reverse Engineering
+📅 When: **Monday (27th October) 18:00-19:30**
 
 📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 2.46**
 
-Our glorious welfare officer **Oscar Innes** is teaching an introduction to 
-**digital forensics**, and how to approach **forensic challenges** in CTFs. 
-It'll cover the following:
+This week I'll be teaching an introduction to **reverse engineering**! If you've
+spoken to me about hacking/CTFs, you'll know I love reverse engineering so I'm
+really excited to be introducing some of you to it.
 
-- **What is Digital Forensics?**
-- **Memory Forensics**
-- **Network Forensics**
+We'll be covering basic **static analysis**, which is a fundamental part of 
+reverse engineering. We'll be:
 
-Oscar did an Incident Response internship with our sponsor **CrowdStrike** and
-really, seriously knows his stuff. You should definitely come to this if you're
-at all intersted in CTFs, or digital forensics as a potential career.
+- **Analysing Compiled Programs**
+- Trying to **understand what they're doing**
+- Using that knowledge to **break encryption**, and **decrypt some flags**
 
----
-## 👤 Talk Series: Julian Meyrick - Managing Cyber as a Financial Risk
-📅 When: **Wednesday (22nd October) 13:00-14:00**
+### Software you'll need
+Please install the following software **before the lesson**:
 
-📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 0.02**
+- **[Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)**
+- **[Binary Ninja Free](https://binary.ninja/free/)**
+- **[Python](https://www.python.org/downloads/)**
+- A **code editor** of your choice, for example 
+**[Visual Studio Code](https://code.visualstudio.com/Download)**
 
-The department has invited security **risk and compliance** expert **Julian
-Meyrick** to give a talk diving into this year's **M&S cyber attack**, and what
-it can tell us about how to approach cyber security risks within large 
-businesses. 
-
-If you're interested in the **financial** and **business services** side of 
-cyber security this talk is a **must see!**
+For anybody who can't make it, we'll be releasing the slides/class resources,
+and hopefully a **recording of the lesson**. I hope to see you there!
 
 ---
+## 📽️ Film Night: Sneakers (1992) - Sober Social
+📅 When: **Tuesday (28th October) 19:30-22:00**
 
-## ⚙️ 🍕 TryHackMe CTF with FREE PIZZA
-📅 When: **Wednesday (22nd October) 14:30-16:30**
+📍 Where: **[S0.11](https://link.mazemap.com/RWxMA2Pg) (Social Sciences)**
 
-📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 0.02**
+Our beloved social secretaries **Jamie** and **Tom** have picked out the 1992
+classic **Sneakers** for us to watch this Tuesday!
 
-The wonderful folks at **TryHackMe** have organised a 2-hour CTF for us with
-**free pizza**! Come along, grab a slice, and do some hacking!
-
----
-## 🍻 Pub Crawl
-📅 When: **Friday (24th October) 19:00-late**
-
-📍 Where: **[Terrace Bar](https://link.mazemap.com/MMskXR7i) ("t-bar")**
-
-Our fantastic social secs are running a **pub crawl** this Friday! Come along,
-have a pint and unwind a bit from the start-of-year busyness!
-
+This is a **sober social**, and will be relaxed and low-key.
+Please feel free to **bring snacks and drinks**, just 
+make sure you **tidy up** before you head off.
 
 ---
-## 👩‍💼🧑‍💼 Women & Non-Binary Social: Curiositea and Walk (Open to Everyone)
-📅 When: **Saturday (25th October) 14:00-16:30**
+## 👤 Talk Series: Owen Reeve (Reversec) - Label Printers go BRRRR
+📅 When: **Wednesday (29th October) 14:00-15:00**
 
-📍 Where: **[Curiositea](https://link.mazemap.com/DR95aKRf)**
+📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 0.04**
 
-Join our fantastic gender inclusion officer **Abi** for a **nice cuppa and a walk** from
-curiositea! This'll be a fantastic way to relax as the year picks up, and a 
-great opportunity to **make some friends** and **explore the area around campus**.
+**Owen Reeve** from our sponsor **Reversec** is giving a talk on how he got into
+the pentest consulting industry, and how during his first client job he 
+compromised 16 000 label makers and gained access to the client's entire 
+network.
 
-This event is open to absolutely everybody, no matter your gender. Come say hi!
+This will definitely be one of the **best talks** we run this term. **Reversec** 
+folks always have **amazing stories** to tell! (e.g. their phenomenal 
+**[Bluetooth Padlock Cracking](https://www.youtube.com/watch?v=4At-une7zGw)** 
+talk at our conference this year)
+
+### 🍻 Post-Talk Pint at the Dirty Duck
+We'll all be heading to the **Dirty Duck** after the talk to chat to Owen some 
+more! **Come say hello**, everybody's welcome!
+
+---

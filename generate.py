@@ -85,7 +85,8 @@ def get_flag_value_or_exit(flag1 : str, flag2: str):
 def open_section(section_name : str, section_dir : str):
     file = Path(section_dir) / section_name
     if not file.is_file():
-        print(f"Error! No section file for {{{{ {section_name.removesuffix(".md")} }}}} ")
+        print(f"Error! No section file for \
+              {{{{ {section_name.removesuffix(".md")} }}}} ")
         print(USAGE_STRING)
         sys.exit()
 
@@ -101,7 +102,8 @@ def render_newsletter(filename : str , section_dir : str , template : str ):
         sections = re.findall("{{ [a-z0-9_-]+ }}", input_markdown)
 
         for section in sections:
-            section_file_name = section.replace("{{","").replace("}}","").replace(" ","") + ".md"
+            section_file_name = section.replace("{{","").replace("}}","")\
+            .replace(" ","") + ".md"
             input_markdown = input_markdown.replace(
                 f"{section}",
                 open_section(section_file_name, section_dir)
