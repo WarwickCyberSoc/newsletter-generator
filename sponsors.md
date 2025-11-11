@@ -19,18 +19,6 @@ delight millions of people every day.
 
 🌐 [bendingspoons.com](https://www.bendingspoons.com)
 
-### First Ascent Placement
-- **Bending Spoons** are sending the UK's best and brightest Computer Science 
-students on an **all expenses paid trip to Milan**!
-- you'll have the opportunity to:
-    - **Network** with Bending Spoons' experts in **software engineering**, **data
-science**, **Cyber Security** and **AI**
-    - **Compete** in **technical competitions**
-    - **Explore Milan** with **free food, drinks, and travel**
-- The placement will run from the **26th** to the **29th of March 2026**
-- You have until the **27th of October** to apply.
-- **[Apply here](https://uk.firstascent.io/)**!
-
 ### Bending Spoons Internships
 - **Bending Spoons** have posted multiple internships!
 - They pay **incredibly well** for an internship, at **£66 779** pro-rata.

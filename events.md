@@ -1,65 +1,58 @@
 # CyberSoc Events This Week
 
 ---
-## 🧑‍🏫 IntroToCTF: Intro to Reverse Engineering
-📅 When: **Monday (27th October) 18:00-19:30**
+## 🧑‍🏫 IntroToCTF: Elastic Security Ethical Hacking Session - WITH FREE PIZZA 🍕
+📅 When: **Monday (3rd November) 18:00-19:30**
 
 📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 2.46**
 
-This week I'll be teaching an introduction to **reverse engineering**! If you've
-spoken to me about hacking/CTFs, you'll know I love reverse engineering so I'm
-really excited to be introducing some of you to it.
+The department has organised a special Monday hacking session run by **Elastic
+Security**! It'll be focused on **threat hunting**, and includes **FREE PIZZA**
 
-We'll be covering basic **static analysis**, which is a fundamental part of 
-reverse engineering. We'll be:
-
-- **Analysing Compiled Programs**
-- Trying to **understand what they're doing**
-- Using that knowledge to **break encryption**, and **decrypt some flags**
-
-### Software you'll need
-Please install the following software **before the lesson**:
-
-- **[Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)**
-- **[Binary Ninja Free](https://binary.ninja/free/)**
-- **[Python](https://www.python.org/downloads/)**
-- A **code editor** of your choice, for example 
-**[Visual Studio Code](https://code.visualstudio.com/Download)**
-
-For anybody who can't make it, we'll be releasing the slides/class resources,
-and hopefully a **recording of the lesson**. I hope to see you there!
+If you've not heard of **threat hunting** before, it's a very important job 
+within a **security operations centre** where you analyse digital forensic data
+to detect whether hackers have **breached your network**, and if so, find out 
+how. It's a fascinating area to work in, well worth coming to the session this 
+week!
 
 ---
-## 📽️ Film Night: Sneakers (1992) - Sober Social
-📅 When: **Tuesday (28th October) 19:30-22:00**
+## ♟️ Board Game Night - Sober Social
+📅 When: **Tuesday (4th November) 19:00-22:00**
 
-📍 Where: **[S0.11](https://link.mazemap.com/RWxMA2Pg) (Social Sciences)**
+📍 Where: **[OC1.08](https://link.mazemap.com/AiWjYQpt) (Oculus)**
 
-Our beloved social secretaries **Jamie** and **Tom** have picked out the 1992
-classic **Sneakers** for us to watch this Tuesday!
-
-This is a **sober social**, and will be relaxed and low-key.
-Please feel free to **bring snacks and drinks**, just 
-make sure you **tidy up** before you head off.
+We're running a **board game night** on Tuesday! Last time we ran one of these 
+it was great fun, one of my favourite CyberSoc socials last year. **We'll be 
+bringing along some games**, but please feel free to bring your favourite board 
+game along!
 
 ---
-## 👤 Talk Series: Owen Reeve (Reversec) - Label Printers go BRRRR
-📅 When: **Wednesday (29th October) 14:00-15:00**
+## 👤 Talk Series: Andrea Riva (Bending Spoons) - Unravelling Supply Chain Attacks
+📅 When: **Wednesday (5th November) 14:00-15:00**
 
-📍 Where: **[IMC](https://link.mazemap.com/DR95aKRf) room 0.04**
+📍 Where: **[IDL Audatorium](https://link.mazemap.com/jiRL1WAV)**
 
-**Owen Reeve** from our sponsor **Reversec** is giving a talk on how he got into
-the pentest consulting industry, and how during his first client job he 
-compromised 16 000 label makers and gained access to the client's entire 
-network.
+Andrea Riva from our sponsor **Bending Spoons** is coming to give a talk 
+discussing three common risks relating to **supply chain attacks**! She'll
+be covering:
 
-This will definitely be one of the **best talks** we run this term. **Reversec** 
-folks always have **amazing stories** to tell! (e.g. their phenomenal 
-**[Bluetooth Padlock Cracking](https://www.youtube.com/watch?v=4At-une7zGw)** 
-talk at our conference this year)
+- **Dependency Confusion**
 
-### 🍻 Post-Talk Pint at the Dirty Duck
-We'll all be heading to the **Dirty Duck** after the talk to chat to Owen some 
-more! **Come say hello**, everybody's welcome!
+- **Domain takeover**
+
+- **Backdoors**/**supply chain malware**
+
+**Supply chain attacks** are often some of the most **advanced**, **meticulously 
+planned** cyber attacks seen in the industry. If you're at all into offensive 
+security, this talk is a must see!
 
 ---
+## ⚙️ 🍕 Warwick x Aston CTF - with FREE PIZZA
+- 📅 **When**: **Saturday (8th November) 10:00-18:00**
+
+- 📍**Where**: **Aston University room [MB166](http://learning-spaces.tlc.aston.ac.uk/s/mb166/)**
+
+We're running a **joint beginner-focused CTF with Aston University in 
+Birmingham**! Come along, and help us beat them!
+
+There will be **free pizza** for lunch, and **prizes!**
