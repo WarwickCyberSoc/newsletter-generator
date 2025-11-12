@@ -2,7 +2,7 @@
 The following companies generously support what CyberSoc does! Returning 
 students will be familiar with **CrowdStrike** and **Interrupt Labs**, but this
 year they're joined by **Reversec** and our new gold sponsor for the year, 
-**Bending spoons!**
+**Bending Spoons!**
 
 ---
 ## Gold Sponsor - Bending Spoons 
