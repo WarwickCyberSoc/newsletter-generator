@@ -1,31 +1,38 @@
 # CyberSoc Events This Week
 
-## 👤 Talk Series: Jon Harry (Okta) - The Evolution of Single Sign-On
-📅 When: **Wednesday (12th November) 13:00-14:00**
+## 🧺 Indoor Picnic - Women & Non-Binary Social - FREE FOOD
+📅 When: **Tuesday (18th November) 17:30-18:30**
 
-📍 Where: **[IDL Audatorium](https://link.mazemap.com/jiRL1WAV)**
+📍 Where: **[R1.03](https://link.mazemap.com/Djn4T6iC)**
 
-**Jon Harry** is giving a talk on how **single sign on** came to be the dominant
-identity management method for large companies, and how the technology evolved
-to the **OAuth**/**OpenID Connect** ecosystem we're familiar with today!
-
-For those who don't know, we collaborate with the department to create our talk 
-schedule, and this is a talk the department has orgnaised :)
+Our fantastic gender inclusion officer **Abi** is running an **indoor picnic**
+with **free food**! The event is open to everybody, and is a nice chance to have
+some scran and unwind from the coursework for a while.
 
 ---
-## 🍻 Pub Crawl
-📅 When: **Wednesday (5th November) 13:00-14:00**
 
-📍 Where: **[T-Bar](https://link.mazemap.com/9LNGCLk2)**
+## 👤 Talk Series: Adrian Hope - Business Continuity
+📅 When: **Wednesday (19th November) 15:30-16:30**
 
-What do we want?
+📍 Where: **[IMC 0.04](https://link.mazemap.com/IZnkX8oT)**
 
-**Pints!**
+Warwick University CISO (Chief Information Security Officer) **Adrian Hope** is
+giving a talk on **business continuity**, and the processes companies should 
+follow to keep on going after a major cyber attack. I've seen Adrian speak 
+before, he's a fantastic speaker! This is a must-see if you're interested in 
+GRC, or any part of the "soft skills" side of cyber security.
 
-When do we want them?
+---
+## 🍻 Circle: British Icons 🇬🇧👨‍🎤
+📅 When: **Wednesday (19th November) 19:30-late**
 
-**Friday at 7pm!**
+📍 Where: **[Kelsey's](https://maps.app.goo.gl/BpT8XfF83b4dsrzm9)** (Leamington)
 
-Our delightful social secs **Jamie** and **Tom** are running a pub crawl into 
-Leamington, **starting at T-bar**. Come **blow off some steam** with us before we're
-back at lectures next week :)
+I've never seen a social down a pint! I've never seen a social down a pint!
+
+It's time folks, time for that most noble of CyberSoc traditions. It's time
+for the British icons circle!
+
+How many Dr Who costumes will we see this year? From Queen to the Queen, 
+Mr Bean to the Beatles, who will join us as we descend into circular madness 
+under the watchful eye of our wonderful socials **Jamie** and **Tom**?

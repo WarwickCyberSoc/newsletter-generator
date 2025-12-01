@@ -1,8 +1,5 @@
 # Sponsors
-The following companies generously support what CyberSoc does! Returning 
-students will be familiar with **CrowdStrike** and **Interrupt Labs**, but this
-year they're joined by **Reversec** and our new gold sponsor for the year, 
-**Bending Spoons!**
+The following companies generously support what CyberSoc does :)
 
 ---
 ## Gold Sponsor - Bending Spoons 
@@ -73,7 +70,7 @@ built into Falcon Complete.
 ## Silver Sponsor - Reversec
 <img src="https://reversec.com/wp-content/uploads/2025/06/reversec-purple.svg" style = "max-width: 90%;" alt="Reversec Logo"/>
 
-Reversec, a new name in cybersecurity consulting, helps organizations worldwide 
+**Reversec**, a new name in cybersecurity consulting, helps organizations worldwide 
 tackle their most complex cybersecurity challenges. With a focus on continuous 
 research, practical solutions and knowledge sharing, Reversec’s findings provide 
 the rationale behind informed security decisions. Reversec is committed to being 
@@ -102,4 +99,4 @@ professional researchers.
 - You should have **some experience** with **reverse engineering** before you apply. 
 I recommend spending a month or two trying some **reverse engineering CTF 
 challenges** before applying.
-- **[Apply Here](https://jobs.gohire.io/interrupt-labs-zcocopee/vulnerability-research-summer-placement-248379/)**!
+- **[Apply Here](https://interruptlabs.teamtailor.com/jobs/6609975-vulnerability-research-summer-placement-2026)**!
