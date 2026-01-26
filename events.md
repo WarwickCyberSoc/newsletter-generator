@@ -1,38 +1,50 @@
-# CyberSoc Events This Week
+# Events This Week
 
-## 🧺 Indoor Picnic - Women & Non-Binary Social - FREE FOOD
-📅 When: **Tuesday (18th November) 17:30-18:30**
+## ⚙️ IntroToCTF - Practice Session
+📅 When: **Monday (1st December) 18:00-19:30**
 
-📍 Where: **[R1.03](https://link.mazemap.com/Djn4T6iC)**
+📍 Where: **[IMC 2.46](https://link.mazemap.com/09yqHvXa)**
 
-Our fantastic gender inclusion officer **Abi** is running an **indoor picnic**
-with **free food**! The event is open to everybody, and is a nice chance to have
-some scran and unwind from the coursework for a while.
+This week _was_ supposed to be **Intro to Crypto** with our resident expert 
+Harmony, but somebody (naming no Vice Presidents) managed to give Harm the wrong
+date, so we're running a **practice session** instead.
+
+- We're going to be doing walkthroughs of some **harder challenges** to apply
+some of the skills you gained in previous sessions!
+### 🎁 Prizes
+- We're giving out **prizes** for folks who can solve the challenges before the
+end of the walkthrough! Come along and win something!
+### 🫵 Get Involved
+- As it's a chill session this week, we're offering the opportunity for
+**you to get involved** by walking through a CTF challenge.
+- You'll win a **prize** for doing so, and we'll guide you through it.
+- This is a **great opportunity to get more comfortable in front of groups**, 
+plus it's good for the CV.
+- If you'd like to get involved, **pick out a challenge** before tonight's 
+session.
 
 ---
 
-## 👤 Talk Series: Adrian Hope - Business Continuity
-📅 When: **Wednesday (19th November) 15:30-16:30**
+## 👤 Talk Series: Industry's X Factor: Connecting Security Requirements with Verification Reality
+📅 When: **Wednesday (3rd December) 14:00-15:00**
 
-📍 Where: **[IMC 0.04](https://link.mazemap.com/IZnkX8oT)**
+📍 Where: **[IMC 0.02](https://link.mazemap.com/IZnkX8oT)**
 
-Warwick University CISO (Chief Information Security Officer) **Adrian Hope** is
-giving a talk on **business continuity**, and the processes companies should 
-follow to keep on going after a major cyber attack. I've seen Adrian speak 
-before, he's a fantastic speaker! This is a must-see if you're interested in 
-GRC, or any part of the "soft skills" side of cyber security.
+This talk will cover how security requirements fit into semiconductor design and
+manufacturing, and how the huge economic forces involved in the semiconductor 
+industry can make secure design and verification tricky.
+
+This will be a fantastic talk for anybody **logistically-minded** or into 
+**hardware** or **low-level security!**
 
 ---
-## 🍻 Circle: British Icons 🇬🇧👨‍🎤
-📅 When: **Wednesday (19th November) 19:30-late**
+## ♥️♠️ Games Night ♦️♣️
+📅 When: **Friday (5th December) 19:30-22:00**
 
-📍 Where: **[Kelsey's](https://maps.app.goo.gl/BpT8XfF83b4dsrzm9)** (Leamington)
+📍 Where: **[MB 0.74](https://link.mazemap.com/4B1BN62C)**
 
-I've never seen a social down a pint! I've never seen a social down a pint!
+It's all fun and games this Friday folks! We'll be competing in various games, 
+including card games and video games. **Bring your laptop and charger**, you'll
+need them!
 
-It's time folks, time for that most noble of CyberSoc traditions. It's time
-for the British icons circle!
-
-How many Dr Who costumes will we see this year? From Queen to the Queen, 
-Mr Bean to the Beatles, who will join us as we descend into circular madness 
-under the watchful eye of our wonderful socials **Jamie** and **Tom**?
+This will **not be a sober social**, expect people to be drinking.

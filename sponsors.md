@@ -54,7 +54,7 @@ mission that matters? The future of cybersecurity starts with you.
 fantastic time. Feel free to ask about it on our **discord**!
 - If you hope to work in cyber **threat intelligence** then
 these internships are **the best way to establish your career**
-- They have **4 intelligence internships** and **2 sales internships** open now!
+- They have **3 intelligence internships** and **2 sales internships** open now!
 - **[Apply here](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e2015adbe3e7f6b000de0b&locationCountry=29247e57dbaf46fb855b224e03170bc7)**!
 
 ### Falcon Complete Graduate Scheme
