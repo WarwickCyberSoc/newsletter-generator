@@ -1,50 +1,55 @@
 # Events This Week
 
-## ⚙️ IntroToCTF - Practice Session
-📅 When: **Monday (1st December) 18:00-19:30**
+## ⚙️ IntroToCTF - Exabeam Workshop with FREE PIZZA 🍕
+📅 When: **Today (Monday 26th January) 18:00-19:30**
 
 📍 Where: **[IMC 2.46](https://link.mazemap.com/09yqHvXa)**
 
-This week _was_ supposed to be **Intro to Crypto** with our resident expert 
-Harmony, but somebody (naming no Vice Presidents) managed to give Harm the wrong
-date, so we're running a **practice session** instead.
+The lovely folks at **Exabeam** are teaching another hacking workshop! This
+will be **blue team focused**, so if you're tired of all the red teaming, come
+along! We'll have **free pizza** for this session!
 
-- We're going to be doing walkthroughs of some **harder challenges** to apply
-some of the skills you gained in previous sessions!
-### 🎁 Prizes
-- We're giving out **prizes** for folks who can solve the challenges before the
-end of the walkthrough! Come along and win something!
-### 🫵 Get Involved
-- As it's a chill session this week, we're offering the opportunity for
-**you to get involved** by walking through a CTF challenge.
-- You'll win a **prize** for doing so, and we'll guide you through it.
-- This is a **great opportunity to get more comfortable in front of groups**, 
-plus it's good for the CV.
-- If you'd like to get involved, **pick out a challenge** before tonight's 
-session.
 
 ---
 
-## 👤 Talk Series: Industry's X Factor: Connecting Security Requirements with Verification Reality
-📅 When: **Wednesday (3rd December) 14:00-15:00**
+## Wednesday Study Session with FREE PIZZA 🍕
+📅 When: **Wednesday (28th January) 13:00-14:00**
 
-📍 Where: **[IMC 0.02](https://link.mazemap.com/IZnkX8oT)**
+📍 Where: **[IMC Recharge](https://link.mazemap.com/1Wmtqywj)** (left side of 
+IMC, bottom floor)
 
-This talk will cover how security requirements fit into semiconductor design and
-manufacturing, and how the huge economic forces involved in the semiconductor 
-industry can make secure design and verification tricky.
-
-This will be a fantastic talk for anybody **logistically-minded** or into 
-**hardware** or **low-level security!**
+Our fantastic treasurer **Ellie** is running a study session before our talk 
+this week. Come along to recharge, grab some pizza, and get cramming!
 
 ---
-## ♥️♠️ Games Night ♦️♣️
-📅 When: **Friday (5th December) 19:30-22:00**
+## 👤 Talk Series: The Road To Cyber Security Consulting 
+📅 When: **Wednesday (28th January) 14:00-15:00**
 
-📍 Where: **[MB 0.74](https://link.mazemap.com/4B1BN62C)**
+📍 Where: **[IDL Auditorium](https://link.mazemap.com/GIYg4ywk)**
 
-It's all fun and games this Friday folks! We'll be competing in various games, 
-including card games and video games. **Bring your laptop and charger**, you'll
-need them!
+👤 Who: **George Chapman** (**Prism Infosec**)
+
+**George Chapman** is giving some advice on what students need to know as they
+enter the cyber security industry. Reflecting on his 10-year career, he'll
+discuss:
+
+- **Technical skills**
+- **Professional Judgement**
+- **Soft Skills**
+- **Early career challenges**
+- **What matters most** when **progressing in the industry**
+
+
+---
+## Circle: Kids TV 📺🍻
+📅 When: **Wednesday (28th January) 19:30-late**
+
+📍 Where: **[Kelsey's](https://maps.app.goo.gl/iAYK2tidYzPSATY59)**, Leamington Spa
+
+We're all for a bit of Nostalgia at CyberSoc! Come along dressed up as your
+**favourite character from a kids TV show!** Are you a member of the **Scooby 
+Gang**? Or **were you a Ben 10 Kid?** No matter what show makes you go
+"Whoa I haven't watched that in years!", come have a laugh with us **this 
+Wednesday** :)
 
 This will **not be a sober social**, expect people to be drinking.
