@@ -1,55 +1,55 @@
 # Events This Week
 
-## ⚙️ IntroToCTF - Exabeam Workshop with FREE PIZZA 🍕
-📅 When: **Today (Monday 26th January) 18:00-19:30**
+## 🗣️ Fortinet Talk and Recruiting Event: Navigating the Underdark
+📅 When: **Today (Wednesday 11th February) 13:00-14:00**
 
-📍 Where: **[IMC 2.46](https://link.mazemap.com/09yqHvXa)**
+📍 Where: **[IMC0.02](https://link.mazemap.com/62J9ushw)**
 
-The lovely folks at **Exabeam** are teaching another hacking workshop! This
-will be **blue team focused**, so if you're tired of all the red teaming, come
-along! We'll have **free pizza** for this session!
+### Talk: Navigating the Underdark (30 mins)
+👤 Who: **Kash Valji**
 
+Kash will chat about how a **large modern SOC works**, with a particular focus
+on automation and Threat Intelligence. We know you've been after more **blue
+team content**, this will teach you all about a modern, high-speed blue team!
+
+### Recruiter Meet (30 mins)
+👤 Who: **Martin Mathews**
+
+Martin oversees the **graduate and placement schemes** for **Fortinet**!
+After Kash's talk he'll be answering questions on **what Fortinet hiring 
+managers look for**, and **how to join their graduate scheme**. If you've been
+looking for a way into the blue-team industry, this is the **perfect 
+opportunity** to make some major connections and improve your applications.
+
+---
+
+## ⚙️ Guided Hacking Session
+📅 When: **Tomorrow (Thursday 12th February) 20:00-22:00 (approx)**
+
+📍 Where: **On our [discord server](https://discord.gg/mpdGEQnYuh)**
+
+Our fantastic lecturer Mirek is once again doing a walkthrough of a 
+**HackTheBox** machine! This was incredibly popular last week, come along
+and learn some hacking!
 
 ---
 
-## Wednesday Study Session with FREE PIZZA 🍕
-📅 When: **Wednesday (28th January) 13:00-14:00**
+## ⛳ PwnEd CTF Qualifiers
+📅 When: **Saturday (14th February) @ 09:00 - Sunday (15th February) @ 21:30**
 
-📍 Where: **[IMC Recharge](https://link.mazemap.com/1Wmtqywj)** (left side of 
-IMC, bottom floor)
+📍 Where: **Online, join our [discord server](https://discord.gg/mpdGEQnYuh) for more info**
 
-Our fantastic treasurer **Ellie** is running a study session before our talk 
-this week. Come along to recharge, grab some pizza, and get cramming!
+It's time folks! PwnEd is the **annual inter-university CTF** run by the University 
+of Edinburgh CyberSoc, SIGINT!
 
----
-## 👤 Talk Series: The Road To Cyber Security Consulting 
-📅 When: **Wednesday (28th January) 14:00-15:00**
+This is **the most important inter-uni CTF of the year!** It's very well done,
+loads of fun, and has challenges for all skill levels. **Warwick has a 
+reputation for winning it** so we're aiming to keep our streak going!
 
-📍 Where: **[IDL Auditorium](https://link.mazemap.com/GIYg4ywk)**
+If you do really well, you might have the opportunity to go to **Edinburgh in
+March** with your **travel costs covered** to compete in the finals!
 
-👤 Who: **George Chapman** (**Prism Infosec**)
-
-**George Chapman** is giving some advice on what students need to know as they
-enter the cyber security industry. Reflecting on his 10-year career, he'll
-discuss:
-
-- **Technical skills**
-- **Professional Judgement**
-- **Soft Skills**
-- **Early career challenges**
-- **What matters most** when **progressing in the industry**
+**NOTE: You must sign up using [This Form](https://forms.office.com/Pages/ResponsePage.aspx?id=vc-6Ce9HZUSSZTVG8ur2vP9Eojc2xbJFiQgLiWDBN8NUQ1dER0pFRFIyQVZUQjg3VUpXMjI1RkZHQy4u)
+by midnight tonight to be on one of our teams!**
 
 
----
-## Circle: Kids TV 📺🍻
-📅 When: **Wednesday (28th January) 19:30-late**
-
-📍 Where: **[Kelsey's](https://maps.app.goo.gl/iAYK2tidYzPSATY59)**, Leamington Spa
-
-We're all for a bit of Nostalgia at CyberSoc! Come along dressed up as your
-**favourite character from a kids TV show!** Are you a member of the **Scooby 
-Gang**? Or **were you a Ben 10 Kid?** No matter what show makes you go
-"Whoa I haven't watched that in years!", come have a laugh with us **this 
-Wednesday** :)
-
-This will **not be a sober social**, expect people to be drinking.

@@ -1,5 +1,5 @@
 # Sponsors
-The following companies generously support what CyberSoc does :)
+Some of our sponsors have **new grad roles out!** Check it out!
 
 ---
 ## Gold Sponsor - Bending Spoons 
@@ -28,10 +28,12 @@ Internship** (if so, **[Apply here!](https://jobs.bendingspoons.com/positions/68
 **technical** and **non-technical** areas!
 - They pay **incredibly well** for graduate work, and you can work with dozens
 of different technologies, it's an incredible opportunity.
-- **[Software Engineering Grad Scheme](https://jobs.bendingspoons.com/positions/668e71387a24106d65888827?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+- **[Graduate Software Engineer](https://jobs.bendingspoons.com/positions/668e71387a24106d65888827?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+- **[Graduate AI Software Engineer](https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d)**
 - **[Data Analysis Grad Scheme](https://jobs.bendingspoons.com/positions/6889d2629c65e916b84e716c?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
-- **[Graduate Content Manager](https://jobs.bendingspoons.com/positions/68f122eb045ec2dddb1aee88)**
 - **[Graduate Communications Manager](https://jobs.bendingspoons.com/positions/68f1213a63c9548216e076ae?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)**
+- **[Finance Dept Graduate Program](https://jobs.bendingspoons.com/positions/69202839618cf62ecd06ae69)**
+- **[People & Business Dept Graduate Program](https://jobs.bendingspoons.com/positions/695946b2d3684ef708e3959a)**
 - **[Graduate Legal Associate](https://jobs.bendingspoons.com/positions/68f27f608a4634000b2e3709?utm_source=bendingspoons&utm_medium=website&utm_campaign=careers&utm_content=hero_CTA&utm_term=static)**
 - **[Graduate Privacy Councel](https://jobs.bendingspoons.com/positions/68cd10c3e542c9b44d3e1fbf?utm_source=bendingspoons&utm_medium=website&utm_campaign=careers&utm_content=hero_CTA&utm_term=static)**
 ---
@@ -52,19 +54,12 @@ mission that matters? The future of cybersecurity starts with you.
 - **CrowdStrike** have opened applications for **6 summer internships**!
 - A lot of CyberSoc members have completed these internships and they all had a 
 fantastic time. Feel free to ask about it on our **discord**!
-- If you hope to work in cyber **threat intelligence** then
-these internships are **the best way to establish your career**
-- They have **3 intelligence internships** and **2 sales internships** open now!
+- If you hope to work in **technical cyber security**, **CrowdStrike** is one of the
+**number 1 places** to start your career!
+- They have internships open in **Incident Response**, **Red Teaming**, 
+**Threat Intelligence** and **Sales**!
 - **[Apply here](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?Job_Family=1408861ee6e2015adbe3e7f6b000de0b&locationCountry=29247e57dbaf46fb855b224e03170bc7)**!
 
-### Falcon Complete Graduate Scheme
-- **CrowdStrike** have released their **Falcon Complete Graduate Program**!
-- This is your chance to join their **Falcon Complete** team, which would see 
-you **use**, **improve** and **create** the network and endpoint security tools
-built into Falcon Complete.
-- This is a fantastic opportunity to do everything from **incident response** to
-**malware analysis**, all **fully remote**!
-- **[Apply Here](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Falcon-Complete-Intern-Graduate---Summer-2026_R25328?locationCountry=29247e57dbaf46fb855b224e03170bc7)**!
 ---
 
 ## Silver Sponsor - Reversec
@@ -100,3 +95,13 @@ professional researchers.
 I recommend spending a month or two trying some **reverse engineering CTF 
 challenges** before applying.
 - **[Apply Here](https://interruptlabs.teamtailor.com/jobs/6609975-vulnerability-research-summer-placement-2026)**!
+
+### Associate Vulnerability Researcher/Software Developer
+- **Interrupt Labs** are **hiring 2026 grads** to become **Vulnerability 
+Researchers**!
+- They're hiring for their **embedded research**, **iOS research** and 
+**cyber development** teams (that last one is their in-house dev team, they 
+build really cool security research tools)
+- If you've got a **knack for reverse engineering** and a **burning need to
+find out exactly how things work**, IL is the place for you!
+- **[Apply Here](https://interruptlabs.teamtailor.com/jobs/7028051-associate-vulnerability-researcher)**
