@@ -1,6 +1,32 @@
 <!doctype html>
 <html>
+    <head>
+        <style>
+            body {
+                font-family: "Open Sans", sans-serif;
+                background-color: #dddddd;
+            }
+            #logo {
+                width: 100px;
+                height: auto;
+            }
+            #newsletter-window {
+                background-color: #eeeeee;
+                color: #222222;
+            }
+        </style>
+    </head>
     <body>
-        {{ content }}
+        <div
+            style="margin: auto; max-width: 1000px; padding: 10px"
+            id="newsletter-window"
+        >
+            <img
+                id="logo"
+                src="https://warwickcybersoc.com/images/gooselogo.png"
+                alt="CyberSoc Logo"
+            />
+            {{ content }}
+        </div>
     </body>
 </html>
