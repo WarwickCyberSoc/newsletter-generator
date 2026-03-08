@@ -22,7 +22,7 @@ Install the requirements (reccommended method using a virtual environment):
   source .venv/bin/activate
   pip install -r requirements.txt
  ```
-Whenever you run the script, make sure to run `source .venv/bin/activate`
+Whenever you run `generate.py`, make sure to source the venv (`source .venv/bin/activate`)
 beforehand.
 
 ## Usage
@@ -32,7 +32,7 @@ what will be replaced by the markdown file.
 
 ### Sections
 You can split your newsletter into multiple sections. This is useful for
-sections which don't often change, e.g. sponsorships, signatures. To do this,
+sections which don't often change, e.g. sponsorships. To do this,
 {{ section }} somewhere in your main markdown file. The script will look for
 a file called section.md, and insert it into the newsletter before converting it
 to HTML.
@@ -42,7 +42,7 @@ have {{ section1 }} in your main markdown file, and {{ section2 }} in
 `section1.md`.
 
 You can speicify where the script should look for section files with the -s
-or --section flag.
+or --section flag. By default it will search the current directory.
 
 ### Embedded HTML
 You can embed normal HTML tags into markdown, which will be kept when the
@@ -63,9 +63,13 @@ things aren't formatting the way you expect in the newsletter.
   The folder/directory containing any markdown files for specific sections.
   Checks the current directory by default.
 
-### Example usage
+## Example
 ```bash
 python3 generate.py newsletter.md
 python3 generate.py newsletter.md -o output.html
 python3 genreate.py newsletter.md -t knit-soc.html -s ./sections
 ```
+
+### Example Weekly Newsletter
+The repo includes an example weekly newsletter in the format which was used for CyberSoc 2025/2026.
+You can geenrate it with `python3 generate.py example-newsletter.md`.
